@@ -1,0 +1,157 @@
+||mmoquest.online/mmoqoimage/battle_fon/*.jpg$image 
+||mmoquest.online/mmoqoimage/logo*.png$image 
+||mmoquest.online/mmoqoimage/icons/zoloto.png?123.0$image 
+mmoquest.online##.button_alt_00[onclick="showContent('/hunt/tec.php', true)"]
+
+! 19.10.2023, 9:30:24 https://mmoquest.online/
+mmoquest.online##.main_button_01:nth-of-type(2)
+
+! 19.10.2023, 9:30:32 https://mmoquest.online/
+mmoquest.online##.main_button_01:nth-of-type(1)
+
+! 19.10.2023, 9:30:44 https://mmoquest.online/
+mmoquest.online##.button_alt_02:nth-of-type(7)
+
+! 19.10.2023, 9:30:51 https://mmoquest.online/
+mmoquest.online##.button_alt_02:nth-of-type(6)
+
+! 19.10.2023, 9:30:59 https://mmoquest.online/
+mmoquest.online##.button_alt_02:nth-of-type(5)
+
+! 19.10.2023, 9:31:08 https://mmoquest.online/
+mmoquest.online##.arrowDuel.button_alt_02
+
+! 19.10.2023, 9:31:18 https://mmoquest.online/
+mmoquest.online##.button_alt_02:nth-of-type(3)
+
+! 19.10.2023, 9:31:28 https://mmoquest.online/
+mmoquest.online##.button_alt_02:nth-of-type(2)
+
+! 19.10.2023, 9:31:48 https://mmoquest.online/
+mmoquest.online##.container-els > .container-els:nth-of-type(1)
+
+! 19.10.2023, 9:32:06 https://mmoquest.online/
+mmoquest.online##.container-els:nth-of-type(3) > .container-flex
+
+! 19.10.2023, 9:32:19 https://mmoquest.online/
+mmoquest.online##.container-els:nth-of-type(2) > .container-flex > .container-el
+
+! 19.10.2023, 9:32:29 https://mmoquest.online/
+mmoquest.online##.container-els:nth-of-type(4) > .container-flex
+
+! 19.10.2023, 9:32:38 https://mmoquest.online/
+||mmoquest.online/mmoqoimage/icons/btn_icon_caution.png?1.0$image
+
+
+! 19.10.2023, 9:35:58 https://mmoquest.online/
+mmoquest.online##.locArrow3
+
+! 01.11.2023, 8:00:14 https://mmoquest.online/
+mmoquest.online##.button_alt_02:nth-of-type(8)
+||mmoquest.online/mmoqoimage/battle_fon/*.jpg$image 
+||mmoquest.online/mmoqoimage/logo*.png$image 
+||mmoquest.online/mmoqoimage/icons/zoloto.png?123.0$image 
+mmoquest.online##.button_alt_00[onclick="showContent('/hunt/tec.php', true)"] 
+mmoquest.online##table:nth-of-type(8)
+
+mmoquest.online##[onclick*=confirm_exit]
+
+! 22.10.2023, 21:44:54 https://mmoquest.online/disconnect.php?error=13
+mmoquest.online##.sizeFooterH.menuright.startfooter.menufooter.R_index_0.RButtonStyle
+mmoquest.online##[href^="https://vk.com/im"] 
+mmoquest.online##table.tablehov
+
+
+! 09.11.2023, 21:40:15 https://mmoquest.online/
+mmoquest.online##.container-els:nth-of-type(4)
+
+! 09.11.2023, 21:40:28 https://mmoquest.online/
+mmoquest.online##.container-els:nth-of-type(3)
+
+! 09.11.2023, 21:40:38 https://mmoquest.online/
+mmoquest.online##.container-els:nth-of-type(2) > .reg_users > div
+
+! 10.11.2023, 20:14:59 https://mmoquest.online/
+mmoquest.online##.container-els:nth-of-type(2) > .reg_users > summary
+
+! 10.11.2023, 20:21:34 https://mmoquest.online/
+mmoquest.online##.online_table > tbody > tr > td:nth-of-type(2)
+
+! 18.11.2023, 16:02:11 https://mmoquest.online/
+mmoquest.online##.online_table > tbody > tr > td:nth-of-type(1)
+
+! 24.11.2023, 15:39:14 https://mmoquest.online/
+mmoquest.online##.main_button_01:nth-of-type(1)
+
+! 24.11.2023, 15:39:19 https://mmoquest.online/
+mmoquest.online##.main_button_01:nth-of-type(2)
+
+! 24.11.2023, 15:39:25 https://mmoquest.online/
+mmoquest.online##.locArrow188
+
+! 24.11.2023, 15:39:32 https://mmoquest.online/
+mmoquest.online##.button_alt_02:nth-of-type(8)
+
+! 24.11.2023, 15:39:37 https://mmoquest.online/
+mmoquest.online##.button_alt_02:nth-of-type(7)
+
+! 24.11.2023, 15:39:41 https://mmoquest.online/
+mmoquest.online##.button_alt_02:nth-of-type(6)
+
+! 24.11.2023, 15:39:45 https://mmoquest.online/
+mmoquest.online##.button_alt_02:nth-of-type(5)
+
+! 24.11.2023, 15:39:49 https://mmoquest.online/
+mmoquest.online##.button_alt_02:nth-of-type(3)
+
+! 24.11.2023, 15:39:52 https://mmoquest.online/
+mmoquest.online##.button_alt_02:nth-of-type(2)
+
+! 24.11.2023, 15:39:57 https://mmoquest.online/
+mmoquest.online##.arrowDuel.button_alt_02
+
+! 24.11.2023, 15:40:07 https://mmoquest.online/
+mmoquest.online##.container-els > .container-els:nth-of-type(1)
+
+! 24.11.2023, 15:40:15 https://mmoquest.online/
+mmoquest.online##.container-els:nth-of-type(2) > .container-flex > .container-el
+
+! 24.11.2023, 15:40:21 https://mmoquest.online/
+mmoquest.online##.container-els:nth-of-type(3)
+
+! 24.11.2023, 15:40:28 https://mmoquest.online/
+mmoquest.online##.container-els:nth-of-type(4)
+
+! 24.11.2023, 15:40:40 https://mmoquest.online/
+mmoquest.online##.container-els:nth-of-type(2) > .reg_users > div
+
+! 24.11.2023, 15:40:47 https://mmoquest.online/
+mmoquest.online##.container-els:nth-of-type(2) > .reg_users > summary
+
+! 24.11.2023, 15:40:54 https://mmoquest.online/
+||mmoquest.online/mmoqoimage/icons/btn_icon_caution.png?1.0$image
+
+! 24.11.2023, 15:46:49 https://mmoquest.online/
+mmoquest.online##table:nth-of-type(1) > tbody > tr > .vjv_td_01:nth-of-type(3) > .button_alt_02
+
+! 24.11.2023, 15:47:59 https://mmoquest.online/
+mmoquest.online##table:nth-of-type(2) > tbody > tr > .vjv_td_01:nth-of-type(3) > .button_alt_02
+
+! 24.11.2023, 15:52:33 https://mmoquest.online/
+mmoquest.online##table:nth-of-type(3) > tbody > tr > .vjv_td_01:nth-of-type(3) > .button_alt_02
+
+! 24.11.2023, 15:52:42 https://mmoquest.online/
+mmoquest.online##table:nth-of-type(3) > tbody > tr > .vjv_td_01:nth-of-type(2) > .button_alt_02
+
+! 24.11.2023, 15:52:46 https://mmoquest.online/
+mmoquest.online##table:nth-of-type(2) > tbody > tr > .vjv_td_01:nth-of-type(2) > .button_alt_02
+
+! 24.11.2023, 15:55:43 https://mmoquest.online/
+mmoquest.online##table:nth-of-type(1) > tbody > tr > .vjv_td_01:nth-of-type(2) > .button_alt_02
+
+! 24.11.2023, 15:55:48 https://mmoquest.online/
+mmoquest.online##table:nth-of-type(2) > tbody > tr > .vjv_td_01:nth-of-type(1) > .button_alt_02
+
+! 24.11.2023, 15:55:54 https://mmoquest.online/
+mmoquest.online##table:nth-of-type(3) > tbody > tr > .vjv_td_01:nth-of-type(1) > .button_alt_02
+
